@@ -6,7 +6,8 @@
 function sayHello() {
 
     // Make a variable called name and set it to your first name.
-
+    
+    let name = "Curt";
 
     //Make a variable called message and using the name variable from above,
     // set it to be something like:  "Hello, Mary.  Very nice to meet you."
